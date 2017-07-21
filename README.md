@@ -11,3 +11,5 @@ Place to keep track of known bugs and FAQs for "Mastering PHP 7" book written by
 * **Page 160** - See https://github.com/ajzele/9781785882814-MASTERING_PHP_7-known-bugs-and-faqs/blob/master/2017-07-18_13-51-36.png
 * **Page 180** - See https://github.com/ajzele/9781785882814-MASTERING_PHP_7-known-bugs-and-faqs/blob/master/2017-07-18_13-55-14.png
 * **Page 190** - See https://github.com/ajzele/9781785882814-MASTERING_PHP_7-known-bugs-and-faqs/blob/master/2017-07-18_13-58-00.png
+* **Page 238** - See https://github.com/ajzele/9781785882814-MASTERING_PHP_7-known-bugs-and-faqs/blob/master/2017-07-21_13-23-24.png
+* **Page 243** - See https://github.com/ajzele/9781785882814-MASTERING_PHP_7-known-bugs-and-faqs/blob/master/2017-07-21_13-26-53.png
